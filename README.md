@@ -1,4 +1,4 @@
-# AlgoritimosProgramacaoEstruturada - Parte 2
+# Algoritimos e Programacao Estruturada - Parte 2
 Este repositório traz a segunda parte de um compilado de algoritmos e programação estruturada na linguagem C desenvolvidos no 4º Semestre de Análise e Desenvolvimento de Sistemas
 
 Este repositório apresenta exemplos práticos a respeito de:
@@ -17,4 +17,3 @@ E exercícios:
 - Calcular Desconto
 - Comparação De Números
 - Multiplicar Arrays
-
